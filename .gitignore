@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.data/
+storage/
+logs/
+outbox/
+*.log
+coverage/
+e2e-shots/
